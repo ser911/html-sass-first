@@ -1,0 +1,15 @@
+$myColor : #810000;
+$myColor2: #0a043c;
+$myColor3: #493323;
+body{
+  background-color:  $myColor2
+}
+
+
+h1{
+  color: $myColor;
+}
+
+button{
+  background-color: $myColor3
+}
